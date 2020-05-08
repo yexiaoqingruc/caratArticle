@@ -1,0 +1,13 @@
+Package: Mypkg
+Type: Package
+Title: Mypkg
+Version: 1.0.0.2
+Date: 2020-03-14
+Author: XiaoqingYe
+Maintainer: XiaoqingYe <yexiaoq@163.com>
+Description: More about what it does (maybe more than one line).
+License: GPL(>=2)
+Imports: Rcpp (>= 1.0.1)
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
+Packaged: 2020-03-15 02:51:22 UTC; yexiaoqing2017
